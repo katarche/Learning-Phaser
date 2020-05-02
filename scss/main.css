@@ -349,10 +349,10 @@ template {
 }
 
 body {
-  background-color: #000;
+  background-color: #B5FBFF;
 }
 
-#game {
-  height: 100%;
+canvas {
+  width: 100%;
 }
 /*# sourceMappingURL=main.css.map */

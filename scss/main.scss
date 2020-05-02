@@ -11,9 +11,9 @@ $main-bg-color: $lighterBlue;
 }
 
 body{
-    background-color: #000;
+    background-color: $main-bg-color;
 }
 
-#game{
-    height: 100%;
+canvas{
+    width: 100%;
 }
