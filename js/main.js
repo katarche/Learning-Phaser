@@ -1,1 +1,1 @@
-console.log("All is set!");
+console.log("Kvo stava be parche?");
