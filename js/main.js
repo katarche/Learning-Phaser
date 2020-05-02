@@ -1,1 +1,1 @@
-console.log("Kvo stava be parche?");
+console.log("tuto bene");
